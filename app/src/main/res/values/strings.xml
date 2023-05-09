@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="Title1">Amount</string>
+    <string name="Title2">Num of Pax</string>
+    <string name="Title3">Discount%</string>
+    <string name="fill1">Enter Total Amount</string>
+    <string name="fill2">Enter Total Number Of People</string>
+    <string name="SVS">SVS</string>
+    <string name="NSVS">NO SVS</string>
+    <string name="GST">GST</string>
+    <string name="NGST">NO GST</string>
+    <string name="fill3">Enter Discount</string>
+    <string name="C">Cash</string>
+    <string name="PN">PayNow</string>
+    <string name="NSPILT">NVR SPILT</string>
+    <string name="SPILT">SPILT</string>
+    <string name="R">RESET</string>
+    <string name="Total">Total Bill: </string>
+    <string name="Each">Each Pays: </string>
+    <string name="Title4">Phone Number</string>
+    <string name="fill4">Please Enter the Phone Number to PayNow to</string>
+</resources>
